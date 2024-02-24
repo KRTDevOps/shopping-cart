@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: LENOVO
+Build-Jdk: 17.0.1
+Implementation-Title: shopping-cart
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.krtcd
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/shopping-cart/
+Created-By: Maven Integration for Eclipse
+
